@@ -14,6 +14,8 @@ https://progit.org/
 
 Chapter 1 and 2 give a brief summary of why and how to use Git.
 
+Chapter 3 explains how branches work.
+
 Chapter 6 explains how to use Git with GitHub. 
 
 We will add branches to the project once the workload is split for the local groups.
