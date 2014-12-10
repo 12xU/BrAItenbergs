@@ -6,8 +6,7 @@ Students' project for the 2014 ShanghAI Lectures
 Find the Kõan description here:
 http://shanghailectures.org/koans
 
-Find the current notes and goals here:
-https://docs.google.com/document/d/1B00Qx5BC7IdmkfbH2WRiKMDxw3eYIv8TglDC63-zJVA/edit
+Please check the documents in the "docs" folder and add things if you like.
 
 If you haven't worked with Git before, I suggest you read:
 https://progit.org/
